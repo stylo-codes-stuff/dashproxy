@@ -1,2 +1,7 @@
-# Dash-proxy
-A proxy service that lets you chose geolocation and other advanced settings not included in other proxies. It also allows you to bypass most monitors or website blockers such as go guardian due to being hosted by github instead of other sites that are usually less vital to school curriculum.
+# Setting up and using Dash
+if the repo gets banned on your school network you can clone it and make your own by cloning the main.
+first start a new repo 
+then use this command in your console to have your very own instance of Dash!
+```
+$ git clone https://github.com/stylo-codes-stuff/Dash-proxy
+```
