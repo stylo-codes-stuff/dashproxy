@@ -1,5 +1,5 @@
 # IMPORTANT INFORMATION
-All proxy addresses that will run on dash have good anonymity and security and are obtained from the below repositories.
+All proxy addresses that will run on dash have good anonymity and security and are obtained from the below repositories.<br>
 [clarketm's proxy list](https://github.com/clarketm/proxy-list)
 
 # Setting up and using Dash
