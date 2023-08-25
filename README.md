@@ -1,4 +1,5 @@
 # IMPORTANT INFORMATION
+For source code development go visit the development repo for the dash service worker [here](https://github.com/stylo-codes-stuff/dash-sw)<br>
 All proxy addresses that will run on dash have good anonymity and security and are obtained from the below repositories.<br>
 [clarketm's proxy list](https://github.com/clarketm/proxy-list)
 
